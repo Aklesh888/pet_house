@@ -21,7 +21,7 @@ const AboutUs = () => {
           className="absolute mt-60 left-96 rounded-xl border-spacing-[-2px] border-white border-8"
         />
       </div>
-      <div className="flex flex-col justify-center  my-10">
+      <div className="flex flex-col justify-center md:ml-44 my-10">
         <div className=" font-bold text-5xl">About Us</div>
         <div className="text-2xl pb-10 my-5 text-[#515151]">
           Pet house & Animal clinic was established with moto to provide

@@ -4,7 +4,7 @@ import React from "react";
 import { useState } from "react";
 
 const Navbar = () => {
-  const [open, setOpen] = useState(false);
+  const [open, setOpen] = useState(true);
   return (
     <div className="flex h-36 justify-between px-5 bg-white py-10 xl:px-32 font-medium text-[#17224D]">
       <div className="text-2xl xl:w-80 w-32 text-center font-bold">
